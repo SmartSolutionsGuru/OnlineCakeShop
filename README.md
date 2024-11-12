@@ -1,2 +1,2 @@
 # OnlineCakeShop
-A project OFOnline Cake Shop
+A project OF Online Cake Shop in blazor with .Net 8
